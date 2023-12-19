@@ -2,7 +2,7 @@
 set -e
 
 testAlias+=(
-	[kylemanna/openvpn]='openvpn'
+	[shiifu/openvpn]='openvpn'
 )
 
 imageTests+=(
